@@ -202,7 +202,7 @@ export default {
       },
       entj: {
         name: 'Cadmean Vixen',
-        desc: 'As a vixen who tends to tenaciously attack problems with both logic and emotion, you seem to have a natural gift for considering options and making considered decisions. You love being with people but find it challenging to get close to people. You may feel as though you\'re destined for greatness, as you have a special connection with the stars.',
+        desc: 'As a fox who tends to tenaciously attack problems with both logic and emotion, you seem to have a natural gift for considering options and making considered decisions. You love being with people but find it challenging to get close to people. You may feel as though you\'re destined for greatness, as you have a special connection with the stars.',
       },
       entp: {
         name: 'Kuma Lisa',
