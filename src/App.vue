@@ -62,7 +62,7 @@
           <el-radio label="t2">Try to look at the problem from another perspective</el-radio>
           <el-radio label="f1">Take a walk or draw for a few minutes</el-radio>
           <el-radio label="t1">Go over the problem from the beginning</el-radio>
-          <el-radio label="f2">Get so anxious I have trouble focussing</el-radio>
+          <el-radio label="f2">Get so anxious I have trouble focusing</el-radio>
         </el-radio-group>
       </el-form-item>
 
@@ -186,7 +186,7 @@ export default {
       },
       enfp: {
         name: 'Hooded Fox',
-        desc: 'You love standing apart from the crowd and hate being labeled or put inside a box (yes you know it rhymes). While you enjoy company, you also get bored easily and can be mischeivous at times. You have a strong sense of justice.',
+        desc: 'You love standing apart from the crowd and hate being labeled or put inside a box (yes you know it rhymes). While you enjoy company, you also get bored easily and can be mischievous at times. You have a strong sense of justice.',
       },
       esfp: {
         name: 'Fox Royale',
