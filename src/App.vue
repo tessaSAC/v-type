@@ -178,7 +178,7 @@ export default {
     foxes: {
       isfj: {
         name: 'Pale Fox',
-        desc: 'Your friends would describe you as warm and considerate. Although you value harmony and are senitive to others\' feelings, you can sometimes feel chaotic inside. You have a natrual tendency towards hard work and savage perfectionism.',
+        desc: 'Your friends would describe you as warm and considerate. Although you value harmony and are sensitive to others\' feelings, you can sometimes feel chaotic inside. You have a natural tendency towards hard work and savage perfectionism.',
       },
       infj: {
         name: 'Fantastic Fox',
@@ -186,7 +186,7 @@ export default {
       },
       enfp: {
         name: 'Hooded Fox',
-        desc: 'You love standing apart from the crowd and hate being labeled or put inside a box. While you enjoy company, you also get bored easily and can be mischeivous at times. You have a strong sense of justice.',
+        desc: 'You love standing apart from the crowd and hate being labeled or put inside a box (yes you know it rhymes). While you enjoy company, you also get bored easily and can be mischeivous at times. You have a strong sense of justice.',
       },
       esfp: {
         name: 'Fox Royale',
