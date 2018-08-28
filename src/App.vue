@@ -178,67 +178,67 @@ export default {
     foxes: {
       isfj: {
         name: 'Pale Fox',
-        desc: 'embodies chaos, unrelentingly savage',
+        desc: 'Your friends would describe you as warm and considerate. Although you value harmony and are senitive to others\' feelings, you can sometimes feel chaotic inside. You have a natrual tendency towards hard work and savage perfectionism.',
       },
       infj: {
         name: 'Fantastic Fox',
-        desc: 'clever, creative, loves family',
+        desc: 'You are a clever, creative, and imaginative idealist who possesses a difference in the way you see the world. You are gentle and caring and value family, whether that means by blood or by choice.',
       },
       enfp: {
         name: 'Hooded Fox',
-        desc: 'mischeivous, strong sense of justice',
+        desc: 'You love standing apart from the crowd and hate being labeled or put inside a box. While you enjoy company, you also get bored easily and can be mischeivous at times. You have a strong sense of justice.',
       },
       esfp: {
         name: 'Fox Royale',
-        desc: 'loves parties, impressed easily',
+        desc: 'You love being around people! Are you the life of the party?! While you enjoy being the center of attention, you have strong interpersonal skills and tend to notice and appreciate others; you are also warm and generously compassion.',
       },
       esfj: {
         name: 'Fox Toddy',
-        desc: 'tame, loving, accepting',
+        desc: 'You love interacting with others and being in the spotlight. Everyone is happy to have you around! People are attracted to you because of your good listening skills and your loving and accepting nature.',
       },
       istp: {
         name: 'Set Fox',
-        desc: 'likes water, competitive, stubborn',
+        desc: 'You are a bit mysterious! Like water, your personality isn\'t confined to one extreme -- you can be rational at times and spontaneous at others. You can be funny and insightful, but also competitive and stubborn. However, fairness and equality are important to you.',
       },
       entj: {
         name: 'Cadmean Vixen',
-        desc: 'giant, vicious, astral',
+        desc: 'As a vixen who tends to tenaciously attack problems with both logic and emotion, you seem to have a natural gift for considering options and making considered decisions. You love being with people but find it challenging to get close to people. You may feel as though you\'re destined for greatness, as you have a special connection with the stars.',
       },
       entp: {
         name: 'Kuma Lisa',
-        desc: 'godmother, smart, helpful',
+        desc: 'You love to shred apart the status quo and reevaluate its corpse with a fresh eye. Although you are intelligent and love helping people, you also love to question society and whether it\'s really for you.',
       },
       enfj: {
         name: 'Finnish Fox',
-        desc: 'Troll, loyal',
+        desc: 'You love people and are charismatic and principled. You mainly act on intuition and feeling. Although you sometimes troll people for fun, you also tend towards loyalty and genuine kindness.',
       },
       infp: {
         name: 'Tame Fox',
-        desc: 'Gregarious, introverted, insightful',
+        desc: 'You can be both gregarious and introverted. When you first meet someone, you prefer to not reveal much about yourself. However you are also insightful about people and are driven to make the world a better place.',
       },
       isfp: {
         name: 'Ninhursag\'s Fox',
-        desc: 'messenger, comfortor'
+        desc: 'Aesthetics are important to you, as are pushing boundaries and convention. You are comfortable in your own skin, which makes you a compassionate and understanding listener who friends trust for advice and reassurance.'
       },
       intp: {
         name: 'Kitsune',
-        desc: 'Love inari productive, faithful, loyal, demands respect',
+        desc: 'You love patterns and have a tendency to be detail-oriented. Despite that, you often share ideas before they are fully-formed, but you don\'t let that stop you from methodically working through your thoughts. Respect and tofu are important to you, and you make a faithful and loyal companion.',
       },
       istj: {
         name: 'Gumiho',
-        desc: 'Contains a bead of knowledge, always fox-like'
+        desc: 'You are a logical and organized hard worker who values tradition, knowledge, and honesty. Although you may be patient and reserved, you cannot always hide your true fox-like nature.'
       },
       estp: {
         name: 'Moche Fox',
-        desc: 'Mental worrior, between two worlds'
+        desc: 'You may often feel as if you are between two worlds, as you are driven by both emotion and logic. Brave and passionate, you ask for forgiveness rather than permission. Although you chafe at structure, you love a good puzzle.'
       },
       estj: {
         name: 'Lo Rainard',
-        desc: 'The lord',
+        desc: 'You always strive to work towards what you believe is good and right above all else and put effort into being a good role model. You love brining communities together and upholding values you find important.',
       },
       intj: {
         name: 'Huli Jing',
-        desc: 'smart sorceror who trains hard, between dark and light'
+        desc: 'You are self-sufficient and comfortable working alone. You are fascinated by ideas and theories, and value competence. You trust your gut instinct and stand on the liminal edge between dark and light.'
       }
     },
 
