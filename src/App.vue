@@ -190,7 +190,7 @@ export default {
       },
       esfp: {
         name: 'Fox Royale',
-        desc: 'You love being around people! Are you the life of the party?! While you enjoy being the center of attention, you have strong interpersonal skills and tend to notice and appreciate others; you are also warm and generously compassion.',
+        desc: 'You love being around people! Are you the life of the party?! While you enjoy being the center of attention, you have strong interpersonal skills and tend to notice and appreciate others; you are also warm and generously compassionate.',
       },
       esfj: {
         name: 'Fox Toddy',
@@ -234,7 +234,7 @@ export default {
       },
       estj: {
         name: 'Lo Rainard',
-        desc: 'You always strive to work towards what you believe is good and right above all else and put effort into being a good role model. You love brining communities together and upholding values you find important.',
+        desc: 'You always strive to work towards what you believe is good and right above all else and put effort into being a good role model. You love bringing communities together and upholding values you find important.',
       },
       intj: {
         name: 'Huli Jing',
